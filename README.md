@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 # Run python script
 usage: ExPyZeroes.py [-h] --wav WAV [--xrange XRANGE] [--yrange YRANGE]
                      [--max_burst MAX_BURST] [--max_repetition MAX_REPETITION]
-
+                     
 optional arguments:
   -h, --help            show this help message and exit
   --wav WAV, -w WAV     wave file
