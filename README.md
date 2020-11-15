@@ -1,13 +1,11 @@
-create virtualenv
------------------
+# Ceate virtualenv
 > python -m venv <env name>
 > <env name>\Scripts\activate
 # Verify venv is activated using:
 > pip3 -V
 > pip3 install -r requirements.txt
 
-Run python script
------------------
+# Run python script
 usage: ExPyZeroes.py [-h] --wav WAV [--xrange XRANGE] [--yrange YRANGE]
                      [--max_burst MAX_BURST] [--max_repetition MAX_REPETITION]
 
