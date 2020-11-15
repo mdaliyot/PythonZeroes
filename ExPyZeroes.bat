@@ -1,4 +1,4 @@
-REM run executable
+REM run executable examples
 REM dist\ExPyZeroes.exe [-h] --wav WAV [--xrange XRANGE] [--yrange YRANGE]
 REM                     [--max_burst MAX_BURST] [--max_repetition MAX_REPETITION]
 
